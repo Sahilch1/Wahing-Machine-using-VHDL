@@ -67,12 +67,6 @@ This project simulates the internal control mechanism of a washing machine using
 
 ---
 
-## 📸 Demo & Flowchart
-
-📷 Flowchart & simulation screenshots can be added here (if available).
-
----
-
 ## 🧾 References
 
 - Terasic DE10-Lite Board: https://www.mouser.in/new/terasic-technologies/terasic-de10-lite-board/  
